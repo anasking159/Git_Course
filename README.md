@@ -1,4 +1,4 @@
 # Git_Course
 For Elzero Web School Course
 
-## Project Note
+## Project Notes
